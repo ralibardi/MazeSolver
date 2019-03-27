@@ -1,0 +1,6 @@
+C:\Courses\Ronny\C#\MazeSolver\MazeSolver\bin\Debug\MazeSolver.exe.config
+C:\Courses\Ronny\C#\MazeSolver\MazeSolver\bin\Debug\MazeSolver.exe
+C:\Courses\Ronny\C#\MazeSolver\MazeSolver\bin\Debug\MazeSolver.pdb
+C:\Courses\Ronny\C#\MazeSolver\MazeSolver\obj\Debug\MazeSolver.csproj.CoreCompileInputs.cache
+C:\Courses\Ronny\C#\MazeSolver\MazeSolver\obj\Debug\MazeSolver.exe
+C:\Courses\Ronny\C#\MazeSolver\MazeSolver\obj\Debug\MazeSolver.pdb

@@ -1,0 +1,7 @@
+C:\Courses\Ronny\C#\MazeSolver\MazeSolver\bin\Release\MazeSolver.exe.config
+C:\Courses\Ronny\C#\MazeSolver\MazeSolver\bin\Release\MazeSolver.exe
+C:\Courses\Ronny\C#\MazeSolver\MazeSolver\bin\Release\MazeSolver.pdb
+C:\Courses\Ronny\C#\MazeSolver\MazeSolver\obj\Release\MazeSolver.csprojAssemblyReference.cache
+C:\Courses\Ronny\C#\MazeSolver\MazeSolver\obj\Release\MazeSolver.csproj.CoreCompileInputs.cache
+C:\Courses\Ronny\C#\MazeSolver\MazeSolver\obj\Release\MazeSolver.exe
+C:\Courses\Ronny\C#\MazeSolver\MazeSolver\obj\Release\MazeSolver.pdb
