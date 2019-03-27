@@ -3,6 +3,7 @@
 /***************************************
         HOW TO USE
 ***************************************/
+
 - Run MazeSolver.exe
 
 - Type the route of the file (with the 
@@ -14,6 +15,7 @@ name and file extension (only *.txt))
 /***************************************
         HOW IT WORKS
 ***************************************/
+
 The program uses a variation from the 
 Wavefront algorithm to find a solution 
 assigning a value to each cell according 
@@ -30,6 +32,7 @@ the starting point.
 /***************************************
         JUSTIFICATION
 ***************************************/
+
 I decided to use this approach because 
 it was one of the algorithms I had to use
 on my graduate thesis (frankly the easiest
